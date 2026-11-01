@@ -1,0 +1,17 @@
+node_modules/
+dist/
+backups/
+.claude/
+*.log
+
+# Segredos e exportacoes pessoais: nunca versionar
+.env
+.env.*
+*.pem
+*.key
+*.bundle
+neuraltune_v2_export.json
+neuraltune_avaliacoes.csv
+neuraltune-backup-*.json
+Streaming_History*.json
+StreamingHistory*.json

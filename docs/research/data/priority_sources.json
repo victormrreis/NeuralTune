@@ -1,0 +1,795 @@
+{
+ "NT-059": {
+  "id": "NT-059",
+  "title": "PPM-Decay: A computational model of auditory prediction with memory decay",
+  "year": 2020,
+  "doi": "10.1371/journal.pcbi.1008304",
+  "authors": [
+   "Peter M. C. Harrison",
+   "Roberta Bianco",
+   "Maria Chait",
+   "Marcus T. Pearce"
+  ],
+  "status": "FULL_TEXT",
+  "journal": "PLoS computational biology",
+  "pmcid": "PMC7668605",
+  "openAccess": true,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article"
+  ],
+  "editorialSummary": "O modelo PPM-Decay dá menos influência a observações antigas, permitindo estudar adaptação a sequências cuja estrutura muda."
+ },
+ "NT-075": {
+  "id": "NT-075",
+  "title": "Statistical learning and probabilistic prediction in music cognition: mechanisms of stylistic enculturation.",
+  "year": 2018,
+  "doi": "10.1111/nyas.13654",
+  "authors": [
+   "Marcus T. Pearce"
+  ],
+  "status": "FULL_TEXT",
+  "journal": "Annals of the New York Academy of Sciences",
+  "pmcid": "PMC6849749",
+  "openAccess": true,
+  "pubType": [
+   "research-article",
+   "Journal Article"
+  ],
+  "editorialSummary": "A revisão relaciona a experiência com uma cultura musical ao aprendizado de regularidades e à formação de expectativas probabilísticas."
+ },
+ "NT-060": {
+  "id": "NT-060",
+  "title": "Uncertainty and surprise jointly predict musical pleasure and amygdala, hippocampus, and auditory cortex activity.",
+  "year": 2019,
+  "doi": "10.1016/j.cub.2019.09.067",
+  "authors": [
+   "Vincent K.M. Cheung",
+   "Peter M.C. Harrison",
+   "Lars Meyer",
+   "Marcus T. Pearce",
+   "John-Dylan Haynes",
+   "Stefan Koelsch"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "journal": "Current biology : CB",
+  "pmcid": null,
+  "openAccess": false,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "editorialSummary": "O estudo combina incerteza anterior ao evento e surpresa ao ouvi-lo para investigar relações não lineares com prazer musical."
+ },
+ "NT-061": {
+  "id": "NT-061",
+  "title": "Predictability and uncertainty in the pleasure of music: a reward for learning?",
+  "year": 2019,
+  "doi": "10.1523/JNEUROSCI.0428-19.2019",
+  "authors": [
+   "Benjamin P. Gold",
+   "Marcus T. Pearce",
+   "Ernest Mas-Herrero",
+   "Alain Dagher",
+   "Robert J. Zatorre"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "pmcid": "PMC6867811",
+  "openAccess": false,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article"
+  ],
+  "editorialSummary": "Os experimentos usam medidas informacionais de previsibilidade e incerteza para estudar preferências musicais e a hipótese de recompensa pelo aprendizado."
+ },
+ "NT-054": {
+  "id": "NT-054",
+  "title": "Musical prediction error responses similarly reduced by predictive uncertainty in musicians and non‐musicians.",
+  "year": 2020,
+  "doi": "10.1111/ejn.14667",
+  "authors": [
+   "David R. Quiroga‐Martinez",
+   "Niels C. Hansen",
+   "Andreas Højlund",
+   "Marcus Pearce",
+   "Elvira Brattico",
+   "Peter Vuust"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "journal": "The European journal of neuroscience",
+  "pmcid": null,
+  "openAccess": false,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "editorialSummary": "Músicos e não músicos apresentaram redução de algumas respostas de erro preditivo em condições musicais mais incertas."
+ },
+ "NT-069": {
+  "id": "NT-069",
+  "title": "Reduced prediction error responses in high-as compared to low-uncertainty musical contexts.",
+  "year": 2019,
+  "doi": "10.1016/j.cortex.2019.06.010",
+  "authors": [
+   "David R. Quiroga-Martinez",
+   "Niels C. Hansen",
+   "Andreas Højlund",
+   "Marcus T. Pearce",
+   "Elvira Brattico",
+   "Peter Vuust"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "journal": "Cortex; a journal devoted to the study of the nervous system and behavior",
+  "pmcid": null,
+  "openAccess": false,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "editorialSummary": "O trabalho compara sequências com diferentes níveis de incerteza para investigar como o contexto modula respostas neurais a desvios."
+ },
+ "NT-066": {
+  "id": "NT-066",
+  "title": "Intracranial Recordings and Computational Modeling of Music Reveal the Time Course of Prediction Error Signaling in Frontal and Temporal Cortices.",
+  "year": 2019,
+  "doi": "10.1162/jocn_a_01388",
+  "authors": [
+   "Diana Omigie",
+   "Marcus Pearce",
+   "Katia Lehongre",
+   "Dominique Hasboun",
+   "Vincent Navarro",
+   "Claude Adam"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "journal": "Journal of cognitive neuroscience",
+  "pmcid": null,
+  "openAccess": false,
+  "pubType": [
+   "Journal Article"
+  ],
+  "editorialSummary": "Registros intracranianos durante a escuta de melodias permitem examinar quando surgem sinais associados à imprevisibilidade musical."
+ },
+ "NT-104": {
+  "id": "NT-104",
+  "title": "Probabilistic models of expectation violation predict psychophysiological emotional responses to live concert music",
+  "year": 2013,
+  "doi": "10.3758/s13415-013-0161-y",
+  "authors": [
+   "Hauke Egermann",
+   "Marcus T. Pearce",
+   "Geraint A. Wiggins",
+   "Stephen McAdams"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "journal": "Cognitive, affective & behavioral neuroscience",
+  "pmcid": null,
+  "openAccess": false,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "editorialSummary": "Um concerto de flauta serviu para comparar expectativas estimadas por modelo com relatos emocionais e medidas psicofisiológicas da plateia."
+ },
+ "NT-100": {
+  "id": "NT-100",
+  "title": "Predictive uncertainty in auditory sequence processing.",
+  "year": 2014,
+  "doi": "10.3389/fpsyg.2014.01052",
+  "authors": [
+   "Niels Chr. Hansen",
+   "Marcus T. Pearce"
+  ],
+  "status": "FULL_TEXT",
+  "journal": "Frontiers in psychology",
+  "pmcid": "PMC4171990",
+  "openAccess": true,
+  "pubType": [
+   "research-article",
+   "Journal Article"
+  ],
+  "editorialSummary": "A pesquisa examina se a entropia de distribuições preditivas representa a incerteza sentida antes do próximo evento musical."
+ },
+ "NT-076": {
+  "id": "NT-076",
+  "title": "Information-theoretic properties of auditory sequences dynamically influence expectation and memory.",
+  "year": 2018,
+  "doi": "10.1111/cogs.12477",
+  "authors": [
+   "Kat Agres",
+   "Samer Abdallah",
+   "Marcus Pearce"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "journal": "Cognitive science",
+  "pmcid": null,
+  "openAccess": false,
+  "pubType": [
+   "Journal Article"
+  ],
+  "editorialSummary": "A previsibilidade das sequências influenciou julgamentos de expectativa e desempenho de memória ao longo de exposições repetidas."
+ },
+ "NT-116": {
+  "id": "NT-116",
+  "title": "Auditory expectation: The information dynamics of music perception and cognition.",
+  "year": 2012,
+  "doi": "10.1111/j.1756-8765.2012.01214.x",
+  "authors": [
+   "Marcus T. Pearce",
+   "Geraint A. Wiggins"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "journal": "Topics in cognitive science",
+  "pmcid": null,
+  "openAccess": false,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "editorialSummary": "O texto reúne evidências de diferentes áreas para discutir expectativas musicais a partir de modelos cognitivos probabilísticos."
+ },
+ "NT-063": {
+  "id": "NT-063",
+  "title": "Information-theoretic modelling of perceived musical complexity.",
+  "year": 2019,
+  "doi": "10.1525/mp.2019.37.2.165",
+  "authors": [
+   "Sarah A. Sauvé",
+   "Marcus T. Pearce"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "editorialSummary": "O estudo relaciona complexidade percebida a medidas informacionais de melodia e harmonia, considerando diferenças individuais."
+ },
+ "NT-043": {
+  "id": "NT-043",
+  "title": "Predictive uncertainty underlies auditory boundary perception.",
+  "year": 2021,
+  "doi": "10.1177/0956797621997349",
+  "authors": [
+   "Niels Chr. Hansen",
+   "Haley E. Kragness",
+   "Peter Vuust",
+   "Laurel Trainor",
+   "Marcus T. Pearce"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "journal": "Psychological science",
+  "pmcid": null,
+  "openAccess": false,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "editorialSummary": "Experimentos com sequências sonoras relacionam maior incerteza preditiva a sinais perceptivos de encerramento de frases."
+ },
+ "NT-058": {
+  "id": "NT-058",
+  "title": "Auditory but Not Audiovisual Cues Lead to Higher Neural Sensitivity to the Statistical Regularities of an Unfamiliar Musical Style.",
+  "year": 2020,
+  "doi": "10.1162/jocn_a_01614",
+  "authors": [
+   "Ioanna Zioga",
+   "Peter M. C. Harrison",
+   "Marcus T. Pearce",
+   "Joydeep Bhattacharya",
+   "Caroline Di Bernardi Luft"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "journal": "Journal of cognitive neuroscience",
+  "pmcid": null,
+  "openAccess": false,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "editorialSummary": "O estudo compara aprendizagem de uma gramática musical com apresentação apenas auditiva ou acompanhada de pistas visuais."
+ },
+ "NT-077": {
+  "id": "NT-077",
+  "title": "Simulating melodic and harmonic expectations for tonal cadences using probabilistic models",
+  "year": 2018,
+  "doi": "10.1080/09298215.2017.1367010",
+  "authors": [
+   "David R. W. Sears",
+   "Marcus T. Pearce",
+   "William E. Caplin",
+   "Stephen McAdams"
+  ],
+  "status": "METADATA_ONLY"
+ },
+ "NT-080": {
+  "id": "NT-080",
+  "title": "Compression-based Modelling of Musical Similarity Perception.",
+  "year": 2017,
+  "doi": "10.1080/09298215.2017.1305419",
+  "authors": [
+   "Marcus Pearce",
+   "Daniel Müllensiefen"
+  ],
+  "status": "METADATA_ONLY"
+ },
+ "NT-107": {
+  "id": "NT-107",
+  "title": "Multiple Viewpoint Systems: Time Complexity and the Construction of Domains for Complex Musical Viewpoints in the Harmonisation Problem.",
+  "year": 2013,
+  "doi": "10.1080/09298215.2013.831457",
+  "authors": [
+   "Raymond P. Whorley",
+   "Geraint A. Wiggins",
+   "Christophe Rhodes",
+   "Marcus T. Pearce"
+  ],
+  "status": "METADATA_ONLY"
+ },
+ "NT-120": {
+  "id": "NT-120",
+  "title": "Time-series analysis of Music: Perceptual and Information Dynamics.",
+  "year": 2011,
+  "doi": "10.18061/1811/51214",
+  "authors": [
+   "Marcus T. Pearce"
+  ],
+  "status": "METADATA_ONLY"
+ },
+ "NT-032": {
+  "id": "NT-032",
+  "title": "Auditory and reward structures reflect the pleasure of musical expectancies during naturalistic listening.",
+  "year": 2023,
+  "doi": "10.3389/fnins.2023.1209398",
+  "authors": [
+   "Benjamin P. Gold",
+   "Marcus T. Pearce",
+   "Anthony R. McIntosh",
+   "Catie Chang",
+   "Alain Dagher",
+   "Robert J. Zatorre"
+  ],
+  "status": "FULL_TEXT",
+  "journal": "Frontiers in neuroscience",
+  "pmcid": "PMC10625409",
+  "openAccess": true,
+  "pubType": [
+   "research-article",
+   "Journal Article"
+  ],
+  "editorialSummary": "O trabalho investiga como expectativas e prazer durante a escuta se relacionam a sistemas auditivos e de recompensa."
+ },
+ "NT-035": {
+  "id": "NT-035",
+  "title": "Cognitive and sensory expectations independently shape musical expectancy and pleasure.",
+  "year": 2023,
+  "doi": "10.1098/rstb.2022.0420",
+  "authors": [
+   "Vincent K. M. Cheung",
+   "Peter M. C. Harrison",
+   "Stefan Koelsch",
+   "Marcus T. Pearce",
+   "Angela D. Friederici",
+   "Lars Meyer"
+  ],
+  "status": "FULL_TEXT",
+  "journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+  "pmcid": "PMC10725761",
+  "openAccess": true,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article"
+  ],
+  "editorialSummary": "Modelos de expectativas sensoriais e cognitivas explicaram contribuições distintas aos julgamentos de surpresa e agradabilidade de acordes."
+ },
+ "NT-022": {
+  "id": "NT-022",
+  "title": "Relationships between surprise, liking, and error perception in musical listening.",
+  "year": 2025,
+  "doi": "10.1037/aca0000811",
+  "authors": [
+   "Amira Korkor",
+   "Valdas Noreika",
+   "Caroline Di Bernardi Luft",
+   "Marcus Pearce"
+  ],
+  "status": "METADATA_ONLY"
+ },
+ "NT-025": {
+  "id": "NT-025",
+  "title": "Perceptual representations mediate effects of stimulus properties on liking for music.",
+  "year": 2024,
+  "doi": "10.1111/nyas.15106",
+  "authors": [
+   "Ana Clemente",
+   "Thomas M. Kaplan",
+   "Marcus T. Pearce"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "journal": "Annals of the New York Academy of Sciences",
+  "pmcid": null,
+  "openAccess": false,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "editorialSummary": "A percepção das propriedades musicais mediou sua relação com o gosto; diferenças entre pessoas e estímulos tiveram peso importante."
+ },
+ "NT-029": {
+  "id": "NT-029",
+  "title": "The association between liking, learning and creativity in music.",
+  "year": 2024,
+  "doi": "10.1038/s41598-024-70027-z",
+  "authors": [
+   "Ioanna Zioga",
+   "Peter M. C. Harrison",
+   "Marcus Pearce",
+   "Joydeep Bhattacharya",
+   "Caroline Di Bernardi Luft"
+  ],
+  "status": "FULL_TEXT",
+  "journal": "Scientific reports",
+  "pmcid": "PMC11329743",
+  "openAccess": true,
+  "pubType": [
+   "research-article",
+   "Journal Article"
+  ],
+  "editorialSummary": "Após aprender uma gramática musical, participantes avaliaram notas e criaram composições; o estudo relaciona preferência, probabilidade e criatividade."
+ },
+ "NT-056": {
+  "id": "NT-056",
+  "title": "Decomposing neural responses to melodic surprise in musicians and non-musicians: evidence for a hierarchy of predictions in the auditory system.",
+  "year": 2020,
+  "doi": "10.1016/j.neuroimage.2020.116816",
+  "authors": [
+   "D.R. Quiroga-Martinez",
+   "N.C. Hansen",
+   "A. Højlund",
+   "M. Pearce",
+   "E. Brattico",
+   "P. Vuust"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "journal": "NeuroImage",
+  "pmcid": null,
+  "openAccess": false,
+  "pubType": [
+   "Comparative Study",
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "editorialSummary": "O trabalho distingue adaptação sensorial de respostas preditivas mais tardias, alertando contra atribuir toda resposta à surpresa probabilística."
+ },
+ "NT-062": {
+  "id": "NT-062",
+  "title": "Reward prediction tells us less than expected about musical pleasure",
+  "year": 2019,
+  "doi": "10.1073/pnas.1913244116",
+  "authors": [
+   "Rémi de Fleurian",
+   "Peter M. C. Harrison",
+   "Marcus T. Pearce",
+   "David R. Quiroga-Martinez"
+  ],
+  "status": "METADATA_ONLY",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "pmcid": "PMC6800363",
+  "openAccess": false,
+  "pubType": [
+   "Letter",
+   "Comment",
+   "Research Support, Non-U.S. Gov't"
+  ]
+ },
+ "NT-021": {
+  "id": "NT-021",
+  "title": "The Effect of Previously Encountered Sensory Information on Neural Representations of Predictability: Evidence From Human EEG.",
+  "year": 2025,
+  "doi": "10.1111/ejn.70300",
+  "authors": [
+   "Kaho Magami",
+   "Roberta Bianco",
+   "Edward Hall",
+   "Marcus Pearce",
+   "Maria Chait"
+  ],
+  "status": "FULL_TEXT",
+  "journal": "The European journal of neuroscience",
+  "pmcid": "PMC12645806",
+  "openAccess": true,
+  "pubType": [
+   "research-article",
+   "Journal Article"
+  ],
+  "editorialSummary": "Os experimentos de EEG sugerem que o uso do contexto anterior varia conforme a estrutura das interrupções nas sequências sonoras."
+ },
+ "NT-003": {
+  "id": "NT-003",
+  "title": "Dynamic models for musical rhythm perception and coordination",
+  "year": 2023,
+  "doi": "10.3389/fncom.2023.1151895",
+  "authors": [
+   "Edward W. Large",
+   "Iran Roman",
+   "Ji Chul Kim",
+   "Jonathan Cannon",
+   "Jesse K. Pazdera",
+   "Laurel J. Trainor"
+  ],
+  "status": "FULL_TEXT",
+  "journal": "Frontiers in computational neuroscience",
+  "pmcid": "PMC10229831",
+  "openAccess": true,
+  "pubType": [
+   "review-article",
+   "Review",
+   "Journal Article"
+  ],
+  "editorialSummary": "A revisão compara modelos dinâmicos, mecanismos neurais e inferência bayesiana para diferentes aspectos da percepção e coordenação rítmica."
+ },
+ "NT-006": {
+  "id": "NT-006",
+  "title": "Neural entrainment to music is sensitive to melodic spectral complexity",
+  "year": 2020,
+  "doi": "10.1152/jn.00758.2018",
+  "authors": [
+   "Indiana Wollman",
+   "Pablo Arias",
+   "Jean-Julien Aucouturier",
+   "Benjamin Morillon"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "journal": "Journal of neurophysiology",
+  "pmcid": "PMC7099475",
+  "openAccess": false,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article"
+  ],
+  "editorialSummary": "A complexidade espectral modulou o acoplamento entre estímulo musical e atividade neural; esse acoplamento não equivale diretamente à emoção."
+ },
+ "NT-014": {
+  "id": "NT-014",
+  "title": "Cortical and behavioral tracking of rhythm in music: Effects of pitch predictability, enjoyment, and expertise",
+  "year": 2025,
+  "doi": "10.1111/nyas.15315",
+  "authors": [
+   "Anne Keitel",
+   "Claire Pelofi",
+   "Xinyi Guan",
+   "Emily Watson",
+   "Lucy Wight",
+   "Sarah Allen"
+  ],
+  "status": "FULL_TEXT",
+  "journal": "Annals of the New York Academy of Sciences",
+  "pmcid": "PMC11998481",
+  "openAccess": true,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article"
+  ],
+  "editorialSummary": "O estudo combina EEG e acompanhamento manual do pulso para investigar como previsibilidade tonal, experiência e prazer afetam o processamento rítmico."
+ },
+ "NT-041": {
+  "id": "NT-041",
+  "title": "Modeling enculturated bias in entrainment to rhythmic patterns",
+  "year": 2022,
+  "doi": "10.1371/journal.pcbi.1010579",
+  "authors": [
+   "Thomas Kaplan",
+   "Jonathan Cannon",
+   "Lorenzo Jamone",
+   "Marcus Pearce"
+  ],
+  "status": "FULL_TEXT",
+  "journal": "PLoS computational biology",
+  "pmcid": "PMC9553061",
+  "openAccess": true,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article"
+  ],
+  "editorialSummary": "O modelo pPIPPET combina inferência de fase com escolha de padrões temporais, incorporando expectativas adquiridas em contextos culturais."
+ },
+ "NT-068": {
+  "id": "NT-068",
+  "title": "Neural entrainment is associated with subjective groove and complexity for performed but not mechanical musical rhythms.",
+  "year": 2019,
+  "doi": "10.1007/s00221-019-05557-4",
+  "authors": [
+   "Daniel J. Cameron",
+   "Ioanna Zioga",
+   "Job P. Lindsen",
+   "Marcus T. Pearce",
+   "Geraint A. Wiggins",
+   "Keith Potter"
+  ],
+  "status": "FULL_TEXT",
+  "journal": "Experimental brain research",
+  "pmcid": "PMC6647194",
+  "openAccess": true,
+  "pubType": [
+   "research-article",
+   "Journal Article"
+  ],
+  "editorialSummary": "A relação entre sincronização neural e avaliações de groove ou complexidade dependeu de o ritmo ter execução humana ou temporização mecânica."
+ },
+ "NT-081": {
+  "id": "NT-081",
+  "title": "A probabilistic model of meter perception: simulating enculturation",
+  "year": 2017,
+  "doi": "10.3389/fpsyg.2017.00824",
+  "authors": [
+   "Bastiaan van der Weij",
+   "Marcus T. Pearce",
+   "Henkjan Honing"
+  ],
+  "status": "FULL_TEXT",
+  "journal": "Frontiers in psychology",
+  "pmcid": "PMC5439009",
+  "openAccess": true,
+  "pubType": [
+   "research-article",
+   "Journal Article"
+  ],
+  "editorialSummary": "O modelo infere métrica a partir de regularidades aprendidas e avalia como essa inferência ajuda a antecipar eventos rítmicos."
+ },
+ "NT-082": {
+  "id": "NT-082",
+  "title": "Perception of rhythmic similarity is asymmetrical, and is influenced by musical training, expressive performance, and musical context.",
+  "year": 2017,
+  "doi": "10.1163/22134468-00002085",
+  "authors": [
+   "Daniel Cameron",
+   "Keith Potter",
+   "Geraint Wiggins",
+   "Marcus Pearce"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "editorialSummary": "Julgamentos de semelhança rítmica variaram com contexto, expressividade da execução e experiência musical."
+ },
+ "NT-070": {
+  "id": "NT-070",
+  "title": "What makes rhythms hard to perform? An investigation using Steve Reich’s Clapping Music.",
+  "year": 2018,
+  "doi": "10.1371/journal.pone.0205847",
+  "authors": [
+   "Sam Duffy",
+   "Marcus Pearce"
+  ],
+  "status": "FULL_TEXT",
+  "journal": "PloS one",
+  "pmcid": "PMC6193667",
+  "openAccess": true,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Journal Article"
+  ],
+  "editorialSummary": "Dados de um aplicativo baseado em padrões rítmicos permitem comparar hipóteses sobre dificuldade de execução e transições entre padrões."
+ },
+ "NT-096": {
+  "id": "NT-096",
+  "title": "Nonlinear changes in the rhythm of European art music: Quantitative support for historical musicology.",
+  "year": 2016,
+  "doi": "10.1525/mp.2016.33.4.414",
+  "authors": [
+   "Niels Chr. Hansen",
+   "Makiko Sadakata",
+   "Marcus Pearce"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "editorialSummary": "A análise histórica de repertórios usa variação de durações e modelos não lineares para examinar mudanças no ritmo de música europeia."
+ },
+ "NT-164": {
+  "id": "NT-164",
+  "title": "The temporal paradox of Hebbian learning and homeostatic plasticity",
+  "year": 2017,
+  "doi": "10.1016/j.conb.2017.03.015",
+  "authors": [
+   "Friedemann Zenke",
+   "Wulfram Gerstner",
+   "Surya Ganguli"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "journal": "Current opinion in neurobiology",
+  "pmcid": null,
+  "openAccess": false,
+  "pubType": [
+   "Review",
+   "Journal Article"
+  ],
+  "editorialSummary": "Os autores discutem por que estabilização lenta pode ser insuficiente para conter instabilidades hebbianas e propõem compensação rápida adicional."
+ },
+ "NT-220": {
+  "id": "NT-220",
+  "title": "Learning input correlations through nonlinear temporally asymmetric Hebbian plasticity",
+  "year": 2003,
+  "doi": "10.1523/JNEUROSCI.23-09-03697.2003",
+  "authors": [
+   "R. Gütig",
+   "R. Aharonov",
+   "S. Rotter",
+   "Haim Sompolinsky"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "pmcid": "PMC6742165",
+  "openAccess": false,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "research-article",
+   "Research Support, U.S. Gov't, Non-P.H.S.",
+   "Journal Article"
+  ],
+  "editorialSummary": "Uma regra hebbiana temporalmente assimétrica e não linear procura equilibrar estabilidade sináptica e sensibilidade às correlações de entrada."
+ },
+ "NT-269": {
+  "id": "NT-269",
+  "title": "Temporal whitening by power-law adaptation in neocortical neurons",
+  "year": 2013,
+  "doi": "10.1038/nn.3431",
+  "authors": [
+   "Christian Pozzorini",
+   "Richard Naud",
+   "Skander Mensi",
+   "Wulfram Gerstner"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "journal": "Nature neuroscience",
+  "pmcid": null,
+  "openAccess": false,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "Journal Article"
+  ],
+  "editorialSummary": "Registros e modelagem relacionam adaptação em múltiplas escalas à redução de correlações temporais na atividade de neurônios corticais."
+ },
+ "NT-273": {
+  "id": "NT-273",
+  "title": "Equilibrium properties of temporally asymmetric Hebbian plasticity",
+  "year": 2001,
+  "doi": "10.1103/PhysRevLett.86.364",
+  "authors": [
+   "Jonathan Rubin",
+   "Daniel D. Lee",
+   "H. Sompolinsky"
+  ],
+  "status": "ABSTRACT_ONLY",
+  "journal": "Physical review letters",
+  "pmcid": null,
+  "openAccess": false,
+  "pubType": [
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, Non-P.H.S.",
+   "Journal Article"
+  ],
+  "editorialSummary": "A análise teórica mostra que a forma de limitar os pesos altera o equilíbrio de regras hebbianas temporalmente assimétricas."
+ },
+ "NT-139": {
+  "id": "NT-139",
+  "title": "Predictive coding networks for temporal prediction",
+  "year": 2024,
+  "doi": "10.1371/journal.pcbi.1011183",
+  "authors": [
+   "Beren Millidge",
+   "Mufeng Tang",
+   "Mahyar Osanlouy",
+   "Nicol S. Harper",
+   "Rafal Bogacz"
+  ],
+  "status": "FULL_TEXT",
+  "journal": "PLoS computational biology",
+  "pmcid": "PMC11008833",
+  "openAccess": true,
+  "pubType": [
+   "research-article",
+   "Journal Article"
+  ],
+  "editorialSummary": "O trabalho formula predição temporal em redes recorrentes com operações locais e compara seu comportamento à filtragem de Kalman."
+ }
+}

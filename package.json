@@ -1,0 +1,26 @@
+{
+  "name": "neuraltune",
+  "version": "4.0.0",
+  "description": "Engenharia de Recomendação Musical, Filtragem Preditiva e Otimização Profunda do Spotify",
+  "main": "dist/neuraltune.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-strip-types --test tests/*.test.ts",
+    "build": "node scripts/build.mjs",
+    "install:spicetify": "powershell -ExecutionPolicy Bypass -File scripts/install-to-spicetify.ps1",
+    "restore:backup": "powershell -ExecutionPolicy Bypass -File scripts/restore-backup.ps1"
+  },
+  "keywords": [
+    "spotify",
+    "spicetify",
+    "recommendation-system",
+    "predictive-queue",
+    "neuraltune",
+    "bayesian-optimization"
+  ],
+  "author": "Victor Martins",
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  }
+}
